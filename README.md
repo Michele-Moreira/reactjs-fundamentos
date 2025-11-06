@@ -1,4 +1,5 @@
 🧮 Calculadora React — Rocketseat Fundamentals
+
 📖 Descrição
 
 Projeto desenvolvido durante o curso Fundamentos de React da Rocketseat, uma calculadora moderna com histórico de operações e design inspirado no layout da trilha de aprendizado.
@@ -42,5 +43,4 @@ Histórico persistente salvo no LocalStorage
 🧑‍💻 Autor
 
 Desenvolvido por Michele Silva 💜
-Durante o curso Fundamentos de React da Rocketseat
-.
+Durante o curso Fundamentos de React da Rocketseat.
