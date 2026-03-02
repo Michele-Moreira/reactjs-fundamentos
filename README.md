@@ -36,10 +36,6 @@ Histórico persistente salvo no LocalStorage
 
 ---
 
-📸 Preview
-
-![Preview da Calculadora - Rocketseat](image.png)
-
 🧑‍💻 Autor
 
 Desenvolvido por Michele Silva 💜
